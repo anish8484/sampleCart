@@ -1,4 +1,4 @@
-sampleapp
+sampleCart
 =================
 
 spare time - playing with AngularJS.
