@@ -8,3 +8,5 @@ This app is a tee shirt shopping cart app, it provide a tee-shirts list that can
 
 ## How to install
 Unzip the project content on a HTTP server (like apache or npm install and npm start) and open `index.html` from `app/` file.
+
+http://localhost:8080/app/#/home
