@@ -5,7 +5,6 @@
     "grunt": "~0.4.5",
     "grunt-contrib-concat": "~0.5.0",
     "grunt-contrib-watch": "~0.4.0",
-    "grunt-contrib-jshint": "^0.11.0",
     "grunt-contrib-uglify": "^0.7.0",
     "http-server": "0.8.5"
   },
@@ -18,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/anish8484/sampleCart"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/anish8484/sampleCart/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/anish8484/sampleCart/blob/master/README.md"
 }
